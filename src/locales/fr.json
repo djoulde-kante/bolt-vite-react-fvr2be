@@ -1,0 +1,58 @@
+{
+  "pos": {
+    "title": "Point de Vente",
+    "welcome": "Bienvenue, {username}",
+    "dashboard": "Tableau de Bord",
+    "searchOrScan": "Rechercher des produits ou scanner le code-barres...",
+    "shoppingCart": "Panier",
+    "emptyCart": "Votre panier est vide",
+    "total": "Total",
+    "paymentMethod": "Méthode de Paiement",
+    "cash": "Espèces",
+    "orangeMoney": "Orange Money",
+    "momo": "MoMo",
+    "merchantCode": "Code Marchand",
+    "checkout": "Payer",
+    "print": "Imprimer",
+    "saleCompleted": "Vente effectuée avec succès !",
+    "receiptTitle": "Reçu d'Épicerie"
+  },
+  "dashboard": {
+    "title": "Tableau de Bord",
+    "overview": "Aperçu",
+    "products": "Produits",
+    "sales": "Ventes",
+    "reports": "Rapports",
+    "finances": "Finances",
+    "settings": "Paramètres",
+    "users": "Utilisateurs",
+    "suppliers": "Fournisseurs",
+    "pos": "Point de Vente",
+    "logout": "Déconnexion"
+  },
+  "userManagement": {
+    "title": "Gestion des Utilisateurs",
+    "addUser": "Ajouter un Utilisateur",
+    "username": "Nom d'utilisateur",
+    "role": "Rôle",
+    "actions": "Actions",
+    "role.admin": "Administrateur",
+    "role.manager": "Gestionnaire",
+    "role.cashier": "Caissier",
+    "update": "Mettre à jour",
+    "add": "Ajouter",
+    "cancel": "Annuler",
+    "accessDenied": "Accès Refusé"
+  },
+  "supplierManagement": {
+    "title": "Gestion des Fournisseurs",
+    "addSupplier": "Ajouter un Fournisseur",
+    "name": "Nom",
+    "contact": "Contact",
+    "email": "Email",
+    "actions": "Actions",
+    "update": "Mettre à jour",
+    "add": "Ajouter",
+    "cancel": "Annuler"
+  }
+}

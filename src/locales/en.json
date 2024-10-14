@@ -1,0 +1,58 @@
+{
+  "pos": {
+    "title": "Point of Sale",
+    "welcome": "Welcome, {username}",
+    "dashboard": "Dashboard",
+    "searchOrScan": "Search products or scan barcode...",
+    "shoppingCart": "Shopping Cart",
+    "emptyCart": "Your cart is empty",
+    "total": "Total",
+    "paymentMethod": "Payment Method",
+    "cash": "Cash",
+    "orangeMoney": "Orange Money",
+    "momo": "MoMo",
+    "merchantCode": "Merchant Code",
+    "checkout": "Checkout",
+    "print": "Print",
+    "saleCompleted": "Sale completed successfully!",
+    "receiptTitle": "Grocery Store Receipt"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "overview": "Overview",
+    "products": "Products",
+    "sales": "Sales",
+    "reports": "Reports",
+    "finances": "Finances",
+    "settings": "Settings",
+    "users": "Users",
+    "suppliers": "Suppliers",
+    "pos": "Point of Sale",
+    "logout": "Logout"
+  },
+  "userManagement": {
+    "title": "User Management",
+    "addUser": "Add User",
+    "username": "Username",
+    "role": "Role",
+    "actions": "Actions",
+    "role.admin": "Admin",
+    "role.manager": "Manager",
+    "role.cashier": "Cashier",
+    "update": "Update",
+    "add": "Add",
+    "cancel": "Cancel",
+    "accessDenied": "Access Denied"
+  },
+  "supplierManagement": {
+    "title": "Supplier Management",
+    "addSupplier": "Add Supplier",
+    "name": "Name",
+    "contact": "Contact",
+    "email": "Email",
+    "actions": "Actions",
+    "update": "Update",
+    "add": "Add",
+    "cancel": "Cancel"
+  }
+}
